@@ -1,0 +1,22 @@
+---
+details:
+  - id: "1"
+    name: "First"
+    slug: "first"
+    patterns:
+      - id: "1"
+        bundle: "main"
+      - id: "2"
+        bundle: "dashboard"
+      - id: "3"
+        bundle: "users"
+  - id: "2"
+    name: "Second"
+    slug: "second"
+    patterns:
+      - id: "1"
+        bundle: "main"
+      - id: "2"
+        bundle: "additional"
+      - id: "3"
+        bundle: "users"

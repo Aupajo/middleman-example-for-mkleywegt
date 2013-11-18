@@ -3,4 +3,4 @@
 source 'http://rubygems.org'
 
 gem "middleman", "~> 3.2.0"
-gem "middleman-pagination", "~> 1.0.6"
+gem "middleman-pagination", "~> 1.0.7"
